@@ -1,3 +1,3 @@
 # IvyCode
 
-## Contentration Camp for Computer Science
+### Contentration Camp for Computer Science
