@@ -1,3 +1,3 @@
-# IvyCode
+# Big Θ Academy
 
-### Contentration Camp for Computer Science
+### Level up computer science
